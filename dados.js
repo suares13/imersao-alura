@@ -1,0 +1,120 @@
+let dados = [ 
+    {
+        titulo : "É Assim Que Acaba",
+        descricao : "É Assim Que Acaba é um romance emocionante de Colleen Hoover que acompanha a história de Lily Bloom, uma jovem que busca recomeçar sua vida após um relacionamento abusivo. Ao se mudar para Boston, ela conhece Ryle, um homem aparentemente perfeito, mas com um passado que a assombra. A chegada de Atlas, seu primeiro amor, reviravolta sua vida e a força a confrontar seus traumas. A obra aborda temas como violência doméstica, saúde mental e a importância da resiliência, proporcionando uma leitura intensa e reflexiva sobre o amor e a cura.",
+        link : "https://www.amazon.com.br/Assim-que-Acaba-Colleen-Hoover/dp/8501112518",
+        tags: "é assim que acaba lily ryle atlas"
+    },
+    {
+        titulo : "É Assim Que Começa",
+        descricao : "É Assim Que Começa é a continuação de É Assim Que Acaba, aprofundando a jornada de Lily Bloom e Atlas Corrigan. Nesta segunda parte, acompanhamos Lily enquanto ela busca reconstruir sua vida após um relacionamento abusivo, enquanto lida com as consequências de suas escolhas e as novas oportunidades que surgem. Atlas, por sua vez, enfrenta seus próprios desafios e busca se conectar com Lily de forma mais profunda. A obra explora temas como amor, perdão, crescimento pessoal e a importância de seguir em frente, proporcionando aos leitores uma continuação intensa e cheia de emoções.",
+        link : "https://www.amazon.com.br/assim-que-come%C3%A7a-Vol-acaba/dp/6559811395",
+        tags: "é assim que comeca lily atlas"
+    },
+    {
+        titulo : "Verity" ,
+        descricao :"Verity é um thriller psicológico de Colleen Hoover que te convida a mergulhar em um mundo de suspense e mistério. A história gira em torno de Lowen Ashleigh, uma escritora contratada para terminar o romance de uma autora famosa, Verity Crawford, que sofreu um acidente. Ao explorar os manuscritos de Verity, Lowen descobre um diário chocante que revela segredos sombrios sobre a vida da autora e sua família. A trama, repleta de reviravoltas inesperadas, te mantém preso até a última página. Uma curiosidade para os fãs: existe uma edição de colecionador de Verity que inclui um capítulo extra, aprofundando ainda mais os mistérios e revelações da história." ,
+        link : "https://www.amazon.com.br/Verity-Colleen-Hoover/dp/8501117846",
+        tags:"verity lowen suspense"
+    },
+    {
+        titulo : "Uma Segunda Chance" ,
+        descricao : "Uma Segunda Chance (Reminders of Him) de Colleen Hoover é uma jornada comovente que explora os temas de perda, culpa e redenção. A história acompanha Kenna Rowan, uma mulher que luta para reconstruir sua vida após sair da prisão por um trágico acidente. Ao retornar à sua cidade natal, ela se depara com os fantasmas do passado e a difícil tarefa de reconquistar a confiança de sua filha pequena. A presença de Ledger Ward, um homem misterioso e protetor, torna-se fundamental em sua jornada de cura e recomeço. A narrativa, marcada por reviravoltas e emoções intensas, nos convida a refletir sobre a capacidade de perdoar e seguir em frente, mesmo diante das maiores adversidades.",
+        link : "https://www.amazon.com.br/Uma-segunda-chance-Colleen-Hoover-ebook/dp/B09ZK6M2NN",
+        tags:"uma segunda chance kenna legder"
+    },
+    {
+        titulo : "Todas as Suas Imperfeições" ,
+        descricao : "Todas as Suas Imperfeições de Colleen Hoover é uma jornada emocionante que explora as complexidades do amor e da vida a dois. A história acompanha Quinn e Graham, duas almas que se encontram em um momento de profunda vulnerabilidade e se unem em busca de felicidade. A narrativa alterna entre o passado e o presente, revelando como as escolhas e as experiências moldam o futuro de um relacionamento. A obra aborda temas como traição, perdão, a busca pela maternidade e a importância de aceitar as imperfeições do outro. Com uma escrita envolvente e personagens cativantes, o livro convida o leitor a refletir sobre o amor, a resiliência e a construção de um futuro juntos.",
+        link : "https://www.amazon.com.br/Todas-as-suas-im-perfei%C3%A7%C3%B5es/dp/8501117684",
+        tags:"todas as suas imperfeicoes quinn graham"
+    },
+    {
+        titulo : "O Lado Feio do Amor",
+        descricao : "O Lado Feio do Amor de Colleen Hoover nos convida a mergulhar em uma história de paixão, segredos e autodescoberta. Tate Collins, uma estudante dedicada, se muda para o apartamento de seu irmão e conhece Miles Archer, um piloto misterioso e atraente. Entre eles, surge uma conexão intensa e inegável, mas marcada por regras e um passado obscuro. Colleen Hoover nos leva a explorar os limites do amor e do desejo, desafiando nossas expectativas sobre relacionamentos. Com uma escrita envolvente e personagens complexos, o livro nos faz questionar o que estamos dispostos a sacrificar pelo amor.",
+        link :"https://www.amazon.com.br/lado-feio-do-amor/dp/8501105732",
+        tags:"o lado feio do amor tate miles"
+    },
+    {
+        titulo : "Até o Verão Terminar",
+        descricao : "Até o Verão Terminar de Colleen Hoover é uma história que explora os temas de superação, amor e esperança. A história acompanha Beyah, uma jovem marcada por um passado doloroso, que encontra em um verão inesquecível a chance de recomeçar sua vida. Ao conhecer Samson, um homem misterioso e enigmático, ela se permite sentir algo que há muito havia esquecido: a esperança. Juntos, eles embarcam em uma jornada de autodescoberta, aprendendo a lidar com as cicatrizes do passado e a construir um futuro juntos. A narrativa, marcada pela beleza da costa da Carolina do Norte, nos convida a refletir sobre a força do amor e a capacidade de seguir em frente, mesmo diante das maiores adversidades. Com uma escrita envolvente e personagens complexos, Colleen Hoover mais uma vez nos emociona com uma história que nos faz acreditar no poder transformador do amor",
+        link : "https://www.amazon.com.br/At%C3%A9-ver%C3%A3o-terminar-Colleen-Hoover/dp/6559810372",
+        tags:"ate o verao terminar beyah"
+    },
+    {
+        titulo : "Novembro Nove",
+        descricao : "Novembro Nove de Colleen Hoover é uma jornada intensa que explora os limites do amor e da obsessão. A história acompanha Fallon e Ben, dois estranhos que se conectam através de um desafio online: trocar mensagens por um mês, revelando um pouco de si a cada dia. À medida que a conexão entre eles se intensifica, Fallon e Ben se apaixonam perdidamente, mesmo sem nunca terem se visto pessoalmente. No entanto, à medida que o mês se aproxima do fim, segredos do passado de Ben vêm à tona, colocando em risco o futuro de seu relacionamento. A narrativa, marcada por reviravoltas e emoções intensas, nos convida a refletir sobre a natureza do amor em tempos digitais e a importância da verdade em um relacionamento. Com uma escrita envolvente e personagens complexos, Colleen Hoover mais uma vez nos entrega uma história que nos faz questionar até onde somos capazes de ir por amor.",
+        link :"https://www.amazon.com.br/Novembro-9-Colleen-Hoover/dp/8501076252",
+        tags:"novembro nove 9 fallon ben"
+    },
+    {
+        titulo :"Se Não Fosse Você" ,
+        descricao : "Se Não Fosse Você de Colleen Hoover é uma jornada comovente que explora a complexidade dos relacionamentos familiares, especialmente entre mães e filhas. A história acompanha Morgan e Clara, duas mulheres que, após uma grande perda, precisam lidar com o luto e reconstruir seu vínculo. Morgan, uma mãe dedicada que coloca as necessidades da filha em primeiro lugar, e Clara, uma adolescente rebelde que busca sua própria identidade, enfrentam desafios e conflitos que as levam a questionar seus valores e prioridades. A narrativa, marcada por momentos de dor e de esperança, nos convida a refletir sobre a importância da comunicação, do perdão e do amor incondicional em uma família. Com uma escrita sensível e personagens autênticos, Colleen Hoover nos presenteia com uma história que toca o coração e nos faz repensar nossas próprias relações familiares.",
+        link :"https://www.amazon.com.br/n%C3%A3o-fosse-voc%C3%AA-Colleen-Hoover/dp/8501119571",
+        tags:"se não fosse voce morgan clara"
+    },
+    {
+        titulo :"As Mil Partes do Meu Coração" ,
+        descricao :"As Mil Partes do Meu Coração de Colleen Hoover é uma jornada profunda que explora a complexidade das relações familiares e os desafios da saúde mental. A história acompanha Merit Voss, uma jovem que decide fugir de casa após anos de guardar os segredos sombrios de sua família. Ao buscar a verdade sobre seu passado, Merit embarca em uma jornada de autodescoberta, confrontando seus medos e aprendendo a lidar com as consequências de suas escolhas. A narrativa, marcada por reviravoltas e emoções intensas, nos convida a refletir sobre a importância da família, do perdão e da busca por identidade. Com uma escrita envolvente e personagens complexos, Colleen Hoover mais uma vez nos entrega uma história que nos toca profundamente, nos fazendo questionar os limites da lealdade familiar e a importância de cuidar da nossa saúde mental",
+        link :"https://www.amazon.com.br/As-mil-partes-meu-cora%C3%A7%C3%A3o/dp/8501115746",
+        tags: "as mil partes do meu coracao merit"
+    },
+    {
+        titulo :"Tarde Demais" ,
+        descricao : "Tarde Demais de Colleen Hoover é uma jornada que explora os limites do amor e da lealdade em um ambiente sombrio e perigoso. A história acompanha Sloan, uma jovem que se vê presa em um relacionamento abusivo com Asa, um perigoso traficante. Para proteger seu irmão, Sloan sacrifica sua própria felicidade e se submete a uma vida de sofrimento e medo. A chegada de Carter, um novo amor, promete uma chance de redenção, mas também a coloca em ainda mais perigo. A narrativa, marcada por suspense e reviravoltas, nos convida a refletir sobre os desafios de escapar de um relacionamento tóxico e a importância de buscar ajuda. Com uma escrita envolvente e personagens complexos, Colleen Hoover nos presenteia com uma história que nos faz questionar até onde somos capazes de ir por amor e lealdade.",
+        link :"https://www.amazon.com.br/Tarde-demais-Colleen-Hoover/dp/8501115002",
+        tags:"tarde demais sloan carter"
+    },
+    {
+        titulo : "nunca jamais - volume 1 ao 3",
+        descricao : "O kit Nunca Jamais de Colleen Hoover, em parceria com Tarryn Fisher, é uma intrigante saga através de um thriller psicológico que te prende do início ao fim. Charlize Wynwood e Silas Nash, melhores amigos desde a infância, acordam um dia sem nenhuma memória de seu passado. A série, composta por três livros, acompanha os dois enquanto tentam reconstruir suas vidas e descobrir o que aconteceu com eles. A cada novo capítulo, mais mistérios são revelados, levando os personagens e os leitores a questionar tudo o que acreditavam saber. Com uma narrativa envolvente e reviravoltas inesperadas, o kit Nunca Jamais é perfeito para quem busca uma leitura intensa e cheia de suspense, explorando temas como amizade, identidade e a fragilidade da memória.",
+        link :"https://www.amazon.com.br/Kit-Nunca-Jamais-Colleen-Hoover/dp/8501306231/ref=pd_sbs_d_sccl_2_1/134-1489537-4682752?pd_rd_w=EcVm9&content-id=amzn1.sym.68326368-ff9d-4049-9e0b-966eebe5b24e&pf_rd_p=68326368-ff9d-4049-9e0b-966eebe5b24e&pf_rd_r=H635S4BZ446BS55EJC2N&pd_rd_wg=4VCK4&pd_rd_r=a55e5c49-337e-438d-a64b-a03cb147982e&pd_rd_i=8501306231&psc=1",
+        tags:"nunca jamais charlize silas"
+    },
+    {
+        titulo : "slammed - volume 1 ao 3",
+        descricao : "A trilogia Slammed de Colleen Hoover é uma história de amor intensa e apaixonada entre Layken e Will. A série é composta por três livros: Métrica, Pausa e essa garota. Os personagens são complexos e bem desenvolvidos, e a escrita de Colleen Hoover é vívida e poética. Se você está procurando uma história de amor que o faça rir, chorar e se apaixonar, a trilogia Slammed é a escolha perfeita.",
+        link :"https://www.amazon.com.br/Kit-Slammed-Colleen-Hoover/dp/8501306436/ref=pd_sbs_d_sccl_2_1/134-1489537-4682752?pd_rd_w=k50H8&content-id=amzn1.sym.68326368-ff9d-4049-9e0b-966eebe5b24e&pf_rd_p=68326368-ff9d-4049-9e0b-966eebe5b24e&pf_rd_r=8NQD80CVBSP39HA303Q3&pd_rd_wg=456VC&pd_rd_r=fd70111c-8bc1-455b-93d0-222257ebcc3a&pd_rd_i=8501306436&psc=1",
+        tags:"slammed layken will métrica pausa essa garota"
+    },
+    {
+        titulo :"Em busca de Cinderela e Em busca da perfeição" ,
+        descricao : "Em 'Em Busca de Cinderela e Em Busca da Perfeição', Colleen Hoover nos presenteia com uma história de amor intensa e inesperada. Um encontro casual em um armário de vassouras desencadeia uma paixão avassaladora entre Six e Daniel. A narrativa, repleta de reviravoltas e emoções, explora os desafios e as alegrias de um amor adolescente, levando os leitores a uma montanha-russa de sentimentos.",
+        link : "https://www.amazon.com.br/Em-busca-Cinderela-perfei%C3%A7%C3%A3o/dp/6559811069/ref=pd_sbs_d_sccl_2_5/134-1489537-4682752?pd_rd_w=ZOYds&content-id=amzn1.sym.68326368-ff9d-4049-9e0b-966eebe5b24e&pf_rd_p=68326368-ff9d-4049-9e0b-966eebe5b24e&pf_rd_r=BEM777KYXCPQDWM65PD3&pd_rd_wg=KGkpC&pd_rd_r=cee3d25e-2e09-4dd7-84d5-d4d617366ead&pd_rd_i=6559811069&psc=1",
+        tags: " Em busca de Cinderela e Em busca da perfeição six daniel"
+    },
+    {
+        titulo :"Hopeless - volume 1 e 2" ,
+        descricao : "Em Hopeless, acompanhamos a transformação de Sky e Holder, dois jovens que se encontram em momentos cruciais de suas vidas. A série explora temas como superação, perdão e a importância dos relacionamentos, mostrando como o amor pode ser uma força poderosa para a mudança.",
+        link :"https://www.amazon.com.br/Kit-Hopeless-Colleen-Hoover/dp/8501305561/ref=pd_sbs_d_sccl_2_1/134-1489537-4682752?pd_rd_w=il1dD&content-id=amzn1.sym.68326368-ff9d-4049-9e0b-966eebe5b24e&pf_rd_p=68326368-ff9d-4049-9e0b-966eebe5b24e&pf_rd_r=B6NN3YCEXF8MY06P0Q46&pd_rd_wg=2voP2&pd_rd_r=a4bb475a-fed5-4853-98e9-d0f7cf4f6e48&pd_rd_i=8501305561&psc=1",
+        tags:"hopeless sky holder"
+    },
+    {
+        titulo : "Confesse",
+        descricao : "Através de Auburn e Owen, 'Confesse' nos mostra como o amor pode transformar vidas e como o passado pode influenciar o futuro. A história acompanha a jornada de autodescoberta de ambos os personagens, que precisam enfrentar seus medos e traumas para construir um futuro juntos.",
+        link :"https://www.amazon.com.br/Confesse-Colleen-Hoover/dp/8501109320",
+        tags:"confesse auburn owen"
+    },
+    {
+        titulo :"Layla" ,
+        descricao :"Em Layla, Colleen Hoover nos presenteia com uma história que mescla romance e suspense sobrenatural. A vida de Leeds e Layla, um casal apaixonado, é drasticamente alterada após um acidente que deixa Layla com sequelas neurológicas. A busca por recomeçar e a presença de eventos inexplicáveis levam o casal a questionar a realidade e a força do amor. Com sua escrita envolvente, Hoover nos convida a uma jornada emocionante e repleta de mistérios, onde a linha entre o real e o sobrenatural se torna tênue",
+        link :"https://www.amazon.com.br/Layla-Colleen-Hoover/dp/6555872039",
+        tags:"layla leeds"
+    },
+    {
+        titulo : "Talvez Um Dia",
+        descricao :"Em Talvez Um Dia, Colleen Hoover nos apresenta uma história de amor intensa e inesperada. Um encontro casual em uma parede com mensagens, onde Sydney escreve um pedido desesperado por um beijo, muda completamente sua vida. Ela acaba se envolvendo com Ridge, um homem mais velho e comprometido, em um romance proibido e apaixonado. A trama, repleta de emoções e reviravoltas, explora temas como amor, desejo e as consequências de nossas escolhas, nos levando a uma jornada emocionante e inesquecível.",
+        link :"https://www.amazon.com.br/Talvez-um-dia-Colleen-Hoover/dp/8501050318/ref=pd_bxgy_thbs_d_sccl_1/134-1489537-4682752?pd_rd_w=VtMvd&content-id=amzn1.sym.e6bad1fb-0cdf-4b12-ab23-306fa1339c43&pf_rd_p=e6bad1fb-0cdf-4b12-ab23-306fa1339c43&pf_rd_r=CE68BH5SAMWDJKRQ5P4P&pd_rd_wg=n5h2m&pd_rd_r=8ffea83e-65a9-438b-94ae-6b10523d0f66&pd_rd_i=8501050318&psc=1",
+        tags:"talvez um dia sydney ridge"
+    },
+    {
+        titulo :"Talvez agora" ,
+        descricao : 
+        "Em Talvez Agora, Colleen Hoover nos presenteia com a continuação da emocionante história de Sydney e Ridge, iniciada em Talvez Um Dia. Acompanhamos a jornada do casal após a turbulência inicial, explorando os desafios e as alegrias de um relacionamento recém-construído. A trama se aprofunda ao introduzir novos personagens e dilemas, convidando os leitores a refletir sobre temas como amizade, lealdade e o verdadeiro significado do amor. Com sua escrita envolvente e personagens cativantes, Hoover nos mostra que a vida após um final feliz pode ser ainda mais emocionante e cheia de surpresas.",
+        link :"https://www.amazon.com.br/Talvez-agora-Colleen-Hoover/dp/8501117854",
+        tags: "talvez agora sidney ridge continuacao"
+    },
+
+];
+
+
